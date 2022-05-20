@@ -1,13 +1,13 @@
 # IPU-Sem4-OOPs-Practical
 Contains codes for all the programs done in the OOPs lab in Semester 4(IPU college) for the batch 2020-24
 **Program 1** - QuadEq1,QuadEq2
-**Program 1** - Gcdlcm
-**Program 1** - MatrixMul
-**Program 1** - Time
-**Program 1** - bubblesort
-**Program 1** - StackCPP
-**Program 1** - book
-**Program 1** - staff
-**Program 1** - student
-**Program 1** - result
-**Program 1** - overloading
+**Program 2** - Gcdlcm
+**Program 3** - MatrixMul
+**Program 4** - Time
+**Program 5** - bubblesort
+**Program 6** - StackCPP
+**Program 7** - book
+**Program 8** - staff
+**Program 9** - student
+**Program 10** - result
+**Program 11** - overloading
