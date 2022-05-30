@@ -18,7 +18,7 @@ class result{
     }
 };
 
-class sessional1:public result{
+class sessional1:virtual public result{
     char subject[30];
     int marks;
     public:
@@ -35,7 +35,7 @@ class sessional1:public result{
     }
 };
 
-class sessional2:public result{
+class sessional2:virtual public result{
     char subject[30];
     int marks;
     public:
@@ -78,12 +78,11 @@ int main()
     cout<<endl<<"===================================================="<<endl;
     cout<<"Program for implementing class hierarchy for Biodata"<<endl;
     cout<<"===================================================="<<endl<<endl;
-    result r1;
     biodata b1;
     b1.input_bio();
-    r1.input();
+    b1.input();
     b1.output_bio();
-    r1.output();
+    b1.output();
     cout<<endl<<"This program is made by:"<<endl<<"Rishikesh Kumar,CSE 2"<<endl<<"09813202720"<<endl;
     getch();
     return 0;
